@@ -1,0 +1,43 @@
+body{
+    
+
+    background-color: tan;
+}
+
+
+.container{
+   
+    width:100%;
+    height:100vh ;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.content{
+    background-color:blueviolet;
+
+    
+}
+.content h1{
+    
+    padding: 5px;
+    text-align: center;
+    
+}
+.form-text{
+    width:100% ;
+    
+    text-align: center;
+}
+.form-text button{
+    background-color: red;
+    color: white;
+    margin-bottom: 5px;
+}
+.content a{
+    text-decoration: none;
+    color: black;
+}
+.content p{
+    color: white;
+}
